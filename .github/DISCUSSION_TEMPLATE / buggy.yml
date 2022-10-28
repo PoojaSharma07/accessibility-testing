@@ -1,6 +1,6 @@
 name:  'Repos bugbash issue'
 title: 'Bug title'
-description: 'Issue found during a team bug bash.'
+description: 'Issue found during a team bug bashb.'
 labels: ['bugbash', 'bug']
 assignees: []
 body:
